@@ -1,0 +1,1 @@
+a simple implementation of a HashMap inj Rust
